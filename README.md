@@ -10,7 +10,6 @@ A minimalist, high-performance glassmorphic startpage for Zen Browser.
    git clone https://github.com/zusqii/zusqii-startpage.git ~/.config/zusqii-startpage
    ```
 2. **Set as Homepage:**
-   In Zen Browser, set your homepage URL to:
    `file:///home/zusqii/.config/zusqii-startpage/index.html`
 
 ### Quick Setup (General)
@@ -25,8 +24,3 @@ A minimalist, high-performance glassmorphic startpage for Zen Browser.
 - **Fonts:** Cleaned Noto Sans is included in the `fonts/` folder.
 - **Style:** Edit `css/glass.css` to change the blur or transparency.
 - **Dependencies:** None. No build tools required.
-
-**Live Preview Inspiration:** [Homely](https://bogdantalant.github.io/Homely/)
-
-## 🤝 Credits
-Created by [Zusqii](https://github.com/zusqii)
