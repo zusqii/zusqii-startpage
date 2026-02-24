@@ -1,0 +1,26 @@
+/* Thin for Greeting */
+@font-face {
+    font-family: 'NotoSans-Custom';
+    src: url('../fonts/NotoSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+}
+
+/* Regular for Pills */
+@font-face {
+    font-family: 'NotoSans-Custom';
+    src: url('../fonts/NotoSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+/* Black for Clock */
+@font-face {
+    font-family: 'NotoSans-Custom';
+    src: url('../fonts/NotoSans-Black.ttf') format('truetype');
+    font-weight: 900;
+}
+
+body {
+    font-family: 'NotoSans-Custom', sans-serif;
+    color: #ffffff;
+    -webkit-font-smoothing: antialiased;
+}
